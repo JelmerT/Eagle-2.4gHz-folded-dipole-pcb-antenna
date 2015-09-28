@@ -25,9 +25,9 @@ Example implementation with the TI CC2538:
 If you use or improve this design, please let me know, post an issue or pull-request. I want to see how you improve this footprint and add a couple more example implementation pictures.
 
 License
---------------
+-------
+**This hardware project is released under the [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.**
+
 ![CC-by-sa](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-http://creativecommons.org/licenses/by-sa/4.0/
-
-(c) Jelmer Tiete - <jelmer@tiete.be>
+(C) Jelmer Tiete - <jelmer@tiete.be>
